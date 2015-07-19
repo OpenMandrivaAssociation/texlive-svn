@@ -6,7 +6,7 @@
 # catalog-version 43
 Name:		texlive-svn
 Version:	43
-Release:	9
+Release:	10
 Summary:	Typeset Subversion keywords
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/svn
