@@ -1,6 +1,6 @@
 Name:		texlive-svn
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Typeset Subversion keywords
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/svn
