@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset Subversion keywords
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/svn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/svn
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/svn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/svn.doc.r%{version}.tar.xz
